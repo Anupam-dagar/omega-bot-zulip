@@ -3,6 +3,11 @@
 ![](/images/logo.png)
 ## **Omega-Bot** is a zulip chatbot   
 
+# Integrations
+
+Google Drive	|	Twitter
+:--------------:|:-------------:
+![]()			|	![]()
 
 # Features
 
