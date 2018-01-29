@@ -120,7 +120,7 @@ This integration is like a typical dictionary.The source of the dictionary is Ox
 ###  Joke:
 This integration cracks some really good as well as lame jokes !. 
 
-`omega tell a joke`  
+`omega joke`  
 
 ![](./images/joke.png)
 
@@ -138,7 +138,7 @@ Want to take decision collectively via votes, now it's possible on Zulip with ou
 `omega poll vote "id" "option"`  
 `omega poll delete id`  
 `omega poll delete all`  
-![](./images/poll.gif) 
+![](./images/poll.png) 
 
 ###  Screenshot :
 Take a screenshot of any url.
