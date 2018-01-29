@@ -7,7 +7,7 @@
 
 Google Drive	|	Twitter
 :--------------:|:-------------:
-![]()			|	![]()
+![](https://raw.githubusercontent.com/Anupam-dagar/omega-bot-zulip/master/images/google-drive.png)			|	![](https://raw.githubusercontent.com/Anupam-dagar/omega-bot-zulip/master/images/twiiter.png)
 
 # Features
 
