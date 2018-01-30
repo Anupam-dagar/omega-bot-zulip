@@ -15,7 +15,7 @@ Google Drive	|	Twitter
 3. Download the zuliprc file for your bot and place it in your home directory as '.zuliprc'.
 ![](./images/instructions.png)  
 4. Install all the requirements using ``` pip install -r requirements.txt ```
-5. In ``` bot.py ``` , change site in ``` self.client = zulip.Client(site="https://chunkzz.zulipchat.com/api/") ``` to url of your created zulip realm.
+5. In ``` bot.py ``` , change site in ``` self.client = zulip.Client(site="https://chunkzz.zulipchat.com/api/") ``` to url of your created zulip realm.Do the same for ``` BOT_MAIL ``` variable.  
 6. Run ``` bot.py ``` using python 3. ``` python3 bot.py ```
 7. Head over to your created zulip realm and start using the bot.
 
